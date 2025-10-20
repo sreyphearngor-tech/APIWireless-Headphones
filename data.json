@@ -1,35 +1,43 @@
-{
-  "foods": [
-    {
-      "id": 1,
-      "name": "Pizza Margherita",
-      "price": 5.99,
-      "image": "https://shop.eismann.de/upload/product-box-theme/de/35114-pizza-margherita-K-20250731.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Cheese Burger",
-      "price": 4.49,
-      "image": "https://picsum.photos/200?burger"
-    },
-    {
-      "id": 3,
-      "name": "Macha Latte",
-      "price": 3.99,
-      "image": "https://m.media-amazon.com/images/I/71uISe6-49L._AC_UF894,1000_QL80_.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Spaghetti Carbonara",
-      "price": 6.50,
-      "image": "https://picsum.photos/200?spaghetti"
-    },
-    
-   {
-      "id": 5,
-      "name": "korean jajangmyeon",
-      "price": 6.50,
-      "image": "https://stellanspice.com/wp-content/uploads/2021/09/image0-4-scaled.jpeg"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Cheese Burger",
+    "category": "Fast Food",
+    "price": 3.99,
+    "description": "Juicy beef patty with melted cheese, lettuce, and tomato.",
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni Pizza",
+    "category": "Italian",
+    "price": 8.5,
+    "description": "Thin crust pizza topped with mozzarella cheese and spicy pepperoni.",
+    "image": "https://www.dogtownpizza.com/wp-content/uploads/2020/01/picking-slice-of-pepperoni-pizza-picture-id1133727757.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fresh Sushi Combo",
+    "category": "Japanese",
+    "price": 12.0,
+    "description": "Assorted sushi rolls with fresh salmon, tuna, and avocado.",
+    "image": "https://media.istockphoto.com/id/1176929581/photo/chopstick-holding-sushi-rolls-set-with-salmon-and-cream-cheese-and-cuccumber-on-black-slate.jpg?s=612x612&w=0&k=20&c=ctmjAzHzxnVSzvBruJt__oucuqn6g-V1Jadv-PRwLj8="
+  },
+  {
+    "id": 4,
+    "name": "Iced Coffee Latte",
+    "category": "Beverage",
+    "price": 2.5,
+    "description": "Chilled espresso with milk and ice, served in a tall glass.",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+  },
+  {
+    "id": 5,
+    "name": "Chocolate Cake Slice",
+    "category": "Dessert",
+    "price": 4.25,
+    "description": "Moist chocolate cake with creamy frosting and chocolate chips.",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587"
+  }
+]
+
